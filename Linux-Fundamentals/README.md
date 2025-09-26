@@ -9,4 +9,4 @@ Covered practical Linux administration skills including:
 - Networking basics  
 
 ## Labs
-- [Linux Fundamentals Labs 1–3 Summary](./Linux-Fundamentals-1-3-Labs-Summary.pdf)
+- [Linux Fundamentals Labs 1–3 Summary](./linux%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
