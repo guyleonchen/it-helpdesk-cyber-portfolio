@@ -11,5 +11,5 @@ This folder contains my cybersecurity awareness training projects, built to help
   A tool that evaluates emails for phishing indicators to raise awareness of common attack patterns.
 
 ## Files
-- [CyberGuard-Pro Awareness Training Game](./CyberGuard-Pro-Awareness-Training-Game.pdf)  
-- [PhishScan Email Awareness Scanner](./PhishScan-Email-Awareness-Scanner.pdf)
+- [CyberGuard-Pro Awareness Training Game](./CyberGuard-Pro%20Awareness%20Training%20Game.pdf)  
+- [PhishScan Email Awareness Scanner](./PhishScan%20Email%20Awareness%20Scanner.pdf)
