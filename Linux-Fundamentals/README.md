@@ -9,5 +9,4 @@ Covered practical Linux administration skills including:
 - Networking basics  
 
 ## Labs
-
-- [Windows Fundamentals Labs 1–3 Summary](./Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
+- [Linux Fundamentals Labs 1–3 Summary](./Linux-Fundamentals-1-3-Labs-Summary.pdf)
