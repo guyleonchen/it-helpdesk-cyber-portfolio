@@ -42,9 +42,12 @@ Practical Linux administration skills:
 ## 🔹 CyberGuard-Pro: Awareness Training
 Cybersecurity awareness projects designed to train users against phishing threats:
 - **CyberGuard-Pro Awareness Training Game** – interactive training with realistic phishing scenarios  
-- **PhishScan Email Awareness Scanner** – evaluates emails for phishing indicators  
+  🎮 [Try the game live](https://emailsecurityawarenesscampaign.lovable.app/)  
+- **PhishScan / Email Analyzer** – evaluates emails for phishing indicators  
+  🧪 [Try the analyzer live](https://cyber-guard-analyze.lovable.app/)
 
 📂 **View:** [`/CyberGuard-Pro`](./CyberGuard-Pro)
+
 
 ---
 
