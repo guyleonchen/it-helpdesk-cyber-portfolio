@@ -56,7 +56,8 @@ Cybersecurity awareness projects designed to train users against phishing threat
 - GitHub: [@guyleonchen](https://github.com/guyleonchen)  
 - Email: guyleonchen@gmail.com
 
-- ---
+  ---
+  
 👉 For my full profile and all ongoing projects, visit my main repo:  
 [Main GitHub Repository](https://github.com/guyleonchen/Guyleonchen)
 
