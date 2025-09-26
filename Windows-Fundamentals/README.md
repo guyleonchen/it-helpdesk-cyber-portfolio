@@ -8,4 +8,5 @@ Covered key IT support skills including:
 - Troubleshooting and system administration  
 
 ## Labs
-- [Windows Fundamentals Labs 1–3 Summary](./Windows-Fundamentals-1-3-Labs-Summary.pdf)
+- [Windows Fundamentals Labs 1–3 Summary](./Windows%20Fundamentals%201%20to%203%20Labs%20Summary.pdf)
+
