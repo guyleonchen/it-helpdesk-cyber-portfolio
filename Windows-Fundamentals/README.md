@@ -7,4 +7,5 @@ Covered key IT support skills including:
 - File systems and permissions  
 - Troubleshooting and system administration  
 
-📄 PDF: Windows-Fundamentals-1-3-Labs-Summary.pdf
+## Labs
+- [Windows Fundamentals Labs 1–3 Summary](./Windows-Fundamentals-1-3-Labs-Summary.pdf)
