@@ -11,7 +11,7 @@ Simulated end-to-end IT support workflows, including:
 - Intune enrollment & policy deployment  
 - Autopilot provisioning (Intune + Entra ID)  
 - Active Directory DS (users, groups, RBAC lifecycle)  
-- Ticketing systems (Jira, Freshservice) & Windows troubleshooting  
+- Ticketing systems (Jira) & Windows troubleshooting  
 - Networking diagnostics (ping, tracert, ipconfig, VPN) & remote support (RDP, TeamViewer)  
 
 📂 **View Labs:** [`/IT-HelpDesk-Labs`](./IT-HelpDesk-Labs)
